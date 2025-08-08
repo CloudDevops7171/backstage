@@ -4,7 +4,7 @@ metadata:
  name: user-service
  description: REST API for managing users in the system
  annotations:
- github.com/project-slug: pritamshende/user-service
+ github.com/project-slug: user-service
 spec:
  type: service
  owner: guest
