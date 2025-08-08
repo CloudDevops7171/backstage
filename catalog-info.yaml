@@ -4,6 +4,6 @@
  name: user-service
  description: This is the user service
  spec:
- type: service
- lifecycle: production
- owner: guests
+  type: service
+  lifecycle: production
+  owner: guests
